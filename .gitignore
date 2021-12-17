@@ -1,3 +1,4 @@
 /pokemon_tap/config.json
 /csv-tap/config.json
 taps/config.json
+tap-dbt-training-data/config.json
