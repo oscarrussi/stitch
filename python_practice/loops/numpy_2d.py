@@ -9,4 +9,4 @@ for inches in np_height:
 
 # For loop over np_baseball
 for player in np.nditer(np_baseball):
-    print(player)
+    print(type(player))

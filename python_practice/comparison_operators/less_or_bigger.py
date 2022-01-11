@@ -4,7 +4,7 @@ print(x>=-10)
 
 # Comparison of strings
 y = "test"
-print("test"<=y)
+print("abc"<=y)
 
 # Comparison of booleans
 print(True>False)
